@@ -1,0 +1,19 @@
+{
+  "name": "backend-series",
+  "version": "1.0.0",
+  "description": "A Basic aap To  Deploy ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Node",
+    "js"
+  ],
+  "author": "Ali Yahya",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
